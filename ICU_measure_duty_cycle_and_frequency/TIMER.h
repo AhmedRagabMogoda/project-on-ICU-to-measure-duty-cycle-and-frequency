@@ -11,7 +11,6 @@
 #include "macro_function.h"
 #include <avr/interrupt.h>
 
-
 void TIMER1_ICU_init(void);
 
 unsigned short TIMER1_ICU_raising(void);
